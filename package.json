@@ -1,8 +1,8 @@
 {
   "name": "vscode-monokai-night",
   "displayName": "Monokai Night Theme",
-  "publisher": "fabiospampinato",
-  "repository": "github:fabiospampinato/vscode-monokai-night",
+  "publisher": "Nguyen Minh Quan",
+  "repository": "github:nguyenminhquan/vscode-monokai-night",
   "description": "A complete, dark and minimalistic Monokai-inspired theme.",
   "icon": "resources/logo-128x128.png",
   "version": "1.7.1",
